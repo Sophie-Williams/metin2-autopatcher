@@ -1,0 +1,1 @@
+This software will permits to update your metin2 client.
